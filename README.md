@@ -1,9 +1,9 @@
 # Bank-Churn-Prediction-Model
-*Overview*
+**Overview**
 
 This project focuses on predicting customer churn for a bank using machine learning techniques. By analyzing historical customer data, the model identifies patterns and factors that contribute to churn, helping the bank develop strategies to retain customers.
 
-*Features*
+**Features**
 
 Data Cleaning: Handling missing values, outliers, and data inconsistencies.
 
@@ -17,13 +17,13 @@ Evaluation Metrics: Assessing model accuracy, precision, recall, and more.
 
 Deployment: Providing insights for business applications.
 
-*Tech Stack*
+**Tech Stack**
 
 Programming Language: Python
 
 Libraries: Pandas, NumPy for data manipulation Matplotlib, Seaborn for visualization, Scikit-learn for machine learning
 
-*Results*
+**Results**
 
 Accuracy: 91%
 
